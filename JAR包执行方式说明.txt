@@ -1,0 +1,5 @@
+本次实验两个功能分别打包成两个JAR包，分别命名为CustomerGroupBy.jar OrdersGroupBy.jar
+任务一：
+java -cp CustomerGroupBy.jar CustomerGroupBy 任务一输入数据路径 任务一输出路径
+任务二：
+java -cp OrdersGroupBy.jar OrdersGroupBy 任务二输入数据路径 任务二输出路径
